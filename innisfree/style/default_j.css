@@ -13,7 +13,7 @@ body{color:#333; font-size:16px;
   font-family:"NanumBarunGothic", "NanumMyeongjo", sans-serif;}
 
   .header {border-bottom:1px solid #055344; padding:40px 0 0;}
-  .header .logo {float:left; width:164px; p}
+  .header .logo {float:left; width:200px;}
   .header .nav {float:left; width:655px; margin-left:100px;}
   .header .nav .gnb> li {float:left; position:relative; padding:0 10px; background: gold;}
   .header .nav .gnb> li> a {display: block;  padding:10px 17px 30px 17px; background: pink;
